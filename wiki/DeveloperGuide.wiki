@@ -2,11 +2,11 @@
 This develop guide is to help developers how to modify and improve awbot.
 
 = Table of Content =
-  [#1.0_Prerequisites 1.0 Prerequisites]
-  [#2.0_Installation 2.0 Installation]
-    [#2.1_Preparation 2.1 Preparation]
-    [#2.2_Verify_Package 2.2 Verify Package]
-  [#3.0_Development_Guidelines 3.0 Development Guidelines]
+ * [#1.0_Prerequisites 1.0 Prerequisites]
+ * [#2.0_Installation 2.0 Installation]
+   * [#2.1_Preparation 2.1 Preparation]
+   * [#2.2_Verify_Package 2.2 Verify Package]
+ * [#3.0_Development_Guidelines 3.0 Development Guidelines]
 
 = 1.0 Prerequisites =
 
