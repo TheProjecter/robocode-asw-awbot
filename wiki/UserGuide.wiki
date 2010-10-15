@@ -1,14 +1,12 @@
-#summary One-sentence summary of this page.
 #labels guide,robocode
+How to use Awbot
 
-= Introduction =
+= 1.0 Download =
+  Download the latest version at [http://code.google.com/p/robocode-asw-awbot/downloads/list here]
+  
+  Extract the package using [http://winrar.com WinRaR], [http://winzip.com WinZip], etc.
 
-Add your content here.
 
+= 2.0 Installation =
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  
