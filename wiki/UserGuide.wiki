@@ -8,7 +8,7 @@ How to use Awbot
 
 
 = 2.0 Installation =
-  Look for asw.Awbot-{version}.jar, extract it. Copy the folder *asw* to Robocode's folder, under /robot/
+  Look for asw.aswbot_{version}.jar, extract it. Copy the folder *asw* to Robocode's folder, under /robot/
 
   Start Robocode and you will see Awbot from the menu.
   
