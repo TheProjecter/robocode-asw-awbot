@@ -1,6 +1,9 @@
 #labels Featured
 This develop guide is to help developers how to modify and improve awbot.
 
+= Table of Content =
+  [#1.0_Prerequisites]
+
 = 1.0 Prerequisites =
 
 Robocode requires [http://java.com/en/download JAVA 5.0] to run.
