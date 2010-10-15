@@ -26,6 +26,6 @@ In order to build and verify the system you modify, it is recommended to use [ht
   * Awbot is developed fully under eclipse followed by the standard coding format of JAVA. If you found that your version of eclipse is using different format, please apply the following format, [http://ics-software-engineering.googlecode.com/svn/trunk/configfiles/eclipse.format.xml Eclipse Format for Robocode]
   * When committing changes to the trunk, please comment as detail as possible so that other people know what is changed.
   * Robocode has a rich API and can be found [http://robocode.sourceforge.net/docs/robocode here]
-  * Please develop JUnit tests when you add new features before committing your work.
-  * Perform ant -f verify.build.xml right before committing.
+  * Please develop JUnit tests when you have new feature developed.
+  * Perform ant -f verify.build.xml right before committing your work.
   * Commit only small portion at a time if possible to avoid losing your precious work. 
