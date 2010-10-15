@@ -12,7 +12,7 @@ In order to build and verify the system you modify, it is recommended to use [ht
 
 == 2.1 Preparation  ==
   * Check out Awbot from [http://code.google.com/p/robocode-asw-awbot/source/checkout]
-  * To begin installation, switch the directory where you downloaded awbot in command line and type the following command. This will allow ivy to download all necessary libraries you need.
+  * To begin installation, switch to the directory where you downloaded awbot in command line and type the following command. This will allow ivy to download all necessary libraries you need.
   {{{ % ant }}}
 
 
