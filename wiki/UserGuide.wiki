@@ -1,4 +1,4 @@
-#labels guide,robocode
+#labels Featured
 How to use Awbot
 
 = 1.0 Download =
