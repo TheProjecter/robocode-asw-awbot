@@ -1,10 +1,11 @@
 #labels Featured
-Featured
-#summary One-sentence summary of this page.
+This develop guide is to help developers how to modify and improve awbot.
 
-= Introduction =
+= 1.0 Prerequisites =
 
-Add your content here.
+Awbot requires robocode library to run and can be found [http://sourceforge.net/projects/robocode/files/ here]
+Robocode requires [http://java.com/en/download JAVA 5.0] to run.
+In order to build and verify the system you modify, it is recommended to use Ant 1.8
 
 
 = Details =
